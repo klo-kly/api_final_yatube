@@ -42,8 +42,10 @@ $ python manage.py runserver
 Для формирования запросов будет использована программа `Postman`.
 - Создание нового пользователя
 ![Создание нового пользователя](https://github.com/klo-kly/pictures/blob/master/API_YATUBE/create_user.jpg)
+
 - Получение токена для аутентификации
 ![Получение токена для аутентификации](https://github.com/klo-kly/pictures/blob/master/API_YATUBE/jwt_token.jpg)
+
 - Создание нового поста
 ![Создание нового поста](https://github.com/klo-kly/pictures/blob/master/API_YATUBE/create_post.jpg)
 
